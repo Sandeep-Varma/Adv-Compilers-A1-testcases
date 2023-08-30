@@ -13,9 +13,9 @@ class A {
         x = 10;
         y = true;
         z = 0;
-        if (z) {
+        if (z) { // 1 Error: z is not a boolean
             z = z + p;
-            if (z != false) {
+            if (z != false) { // 2 Errors: z and false are not of the same type and if condition is not a boolean
                 y = false;
             }
         }
