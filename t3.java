@@ -13,7 +13,7 @@ class A{
             System.out.println(p);
         }
         if (q != r){
-            System.out.println(z+(p+(q+r))); //  1 Error - z not defined
+            System.out.println(z+(p+(q+r))); //  2 Errors - z not defined and plus operator expects int
         }
         return r;
     }
