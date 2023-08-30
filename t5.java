@@ -10,7 +10,11 @@ class A{
 
 class B extends A{
     int y;
+}
+
+class C extends B{
+    int z;
     public int func(){
-        return x+y;
+        return (x+y)+z;
     }
 }
