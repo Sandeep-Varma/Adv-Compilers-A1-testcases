@@ -8,7 +8,7 @@ class A{
     int x;
     public int func(){
         int[] a;
-        Boolean b;
+        boolean b;
         int c;
         c[b]=b; // 3 errors
         c[c]=c; // 2 errors
