@@ -1,6 +1,6 @@
 // Credits: Bhuvan Reddy
 
-class Test {
+class t9 {
 	public static void main(String[] s) {
 		System.out.println(this);
 	}
