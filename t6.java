@@ -1,4 +1,4 @@
-class t5 {
+class t6 {
     public static void main(String[] args) {
         System.out.println(1);
     }

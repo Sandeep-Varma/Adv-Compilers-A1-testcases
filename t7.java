@@ -1,6 +1,6 @@
 // Credits: Rohan Rajesh Kalbag
 
-class t3 {
+class t7 {
     public static void main(String[] args) {
         System.out.println((1+2)*3);
     }
