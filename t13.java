@@ -1,4 +1,4 @@
-// Total: 41 errors
+// Credits: Kanishka Mittal
 
 class Test {
     public static void main(String[] args) {

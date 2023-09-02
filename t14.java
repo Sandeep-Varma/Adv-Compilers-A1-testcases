@@ -1,4 +1,4 @@
-// Total: 173 errors
+// Credits: Bhuvan Reddy
 
 class Test {
 	public static void main(String[] q) {
