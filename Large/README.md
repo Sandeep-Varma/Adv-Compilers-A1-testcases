@@ -1,4 +1,4 @@
-Note: The number of errors for each testcase file in this folder is given in its first line.
+Use testcases_all.csv instead of testcases.csv to run on all the testcases (including large ones)
 
 Please feel free to report any discrepancies
 
