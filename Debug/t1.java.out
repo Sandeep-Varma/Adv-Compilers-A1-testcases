@@ -1,0 +1,4 @@
+Error at line : 16 if(.) : Not bool
+Error at line : 18 (.) != (.) : Type mismatch
+Error at line : 18 if(.) : Not bool
+Found 3 type errors.

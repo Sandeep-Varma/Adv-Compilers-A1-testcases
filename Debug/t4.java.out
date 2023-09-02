@@ -1,0 +1,5 @@
+Error at line : 12 (.) + (.) : Type mismatch
+Error at line : 12 (.) + (.) : Type mismatch
+Error at line : 12 (.) + (.) : Type mismatch
+Error at line : 12 return type mismatch, expected int
+Found 4 type errors.

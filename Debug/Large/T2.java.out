@@ -1,0 +1,42 @@
+Error at line : 31 x[.] = z : Not int
+Error at line : 31 x[y] = z : Type mismatch
+Error at line : 38 x[.] = z : Not int
+Error at line : 38 (.)[y] = z : Not array
+Error at line : 38 x[y] = z : Type mismatch
+Error at line : 44 x[.] = z : Not int
+Error at line : 44 (.)[y] = z : Not array
+Error at line : 44 x[y] = z : Type mismatch
+Error at line : 50 (.)[y] = z : Not array
+Error at line : 50 x[y] = z : Type mismatch
+Error at line : 70 x.y = z :  Type mismatch
+Error at line : 72 LHS: Either Class/Field not found
+Error at line : 72 x.y = z :  Type mismatch
+Error at line : 73 LHS: Either Class/Field not found
+Error at line : 73 x.y = z :  Type mismatch
+Error at line : 80 (.) && (.) : >= 1 not bool
+Error at line : 93 (.) != (.) : Type mismatch
+Error at line : 93 if(.) : Not bool
+Error at line : 96 (.) != (.) : Type mismatch
+Error at line : 96 if(.) : Not bool
+Error at line : 110 Either Class/Field not found
+Error at line : 110 x = y : Type mismatch[ERR]
+Error at line : 124 base of (.)[] not Array
+Error at line : 125 index of Arr[.] not int
+Error at line : 126 index of Arr[.] not int
+Error at line : 126 base of (.)[] not Array
+Error at line : 136 (.) <= (.) : >= 1 not int
+Error at line : 136 Method call arg type mismatch
+Error at line : 137 (.) <= (.) : >= 1 not int
+Error at line : 137 (.) <= (.) : >= 1 not int
+Error at line : 137 Either Class/Method not found
+Error at line : 138 Method call arg count mismatch
+Error at line : 141 Method call arg type mismatch
+Error at line : 145 (.) <= (.) : >= 1 not int
+Error at line : 145 (.) <= (.) : >= 1 not int
+Error at line : 145 Method call arg count mismatch
+Error at line : 146 Method call arg count mismatch
+Error at line : 147 (.) <= (.) : >= 1 not int
+Error at line : 147 Either Class/Method not found
+Error at line : 176 new int[.]
+Error at line : 176 x = y : Type mismatch[ERR]
+Found 41 type errors.

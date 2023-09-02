@@ -1,0 +1,15 @@
+Error at line : 15 x.y = z :  Type mismatch
+Error at line : 16 boolean = int : Type mismatch
+Error at line : 17 LHS: Either Class/Field not found
+Error at line : 17 x.y = z :  Type mismatch
+Error at line : 18 Either Class/Field not found
+Error at line : 18 x = y : Type mismatch[ERR]
+Error at line : 19 LHS: Either Class/Field not found
+Error at line : 19 x.y = z :  Type mismatch
+Error at line : 20 Either Class/Field not found
+Error at line : 20 x = y : Type mismatch[ERR]
+Error at line : 22 LHS: Either Class/Field not found
+Error at line : 22 x.y = z :  Type mismatch
+Error at line : 23 Either Class/Field not found
+Error at line : 23 x = y : Type mismatch[ERR]
+Found 14 type errors.

@@ -1,0 +1,5 @@
+Error at line : 12 (.) <= (.) : >= 1 not int
+Error at line : 12 if(.) : Not bool
+Error at line : 16 Either Class/Field not found
+Error at line : 16 (.) + (.) : Type mismatch
+Found 4 type errors.

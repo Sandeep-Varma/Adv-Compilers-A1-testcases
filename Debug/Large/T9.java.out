@@ -1,0 +1,50 @@
+Error at line : 5 (.) * (.) : >= 1 not int
+Error at line : 15 (.) && (.) : >= 1 not bool
+Error at line : 16 boolean = J : Type mismatch
+Error at line : 17 while(.) : Not bool
+Error at line : 18 LHS: Either Class/Field not found
+Error at line : 18 x.y = z :  Type mismatch
+Error at line : 19 !(.)
+Error at line : 19 new int[.]
+Error at line : 19 (.) || (.) : >= 1 not bool
+Error at line : 19 if(.)else : Not bool
+Error at line : 20 Either Class/Field not found
+Error at line : 22 Either Class/Field not found
+Error at line : 22 x = y : Type mismatch[ERR]
+Error at line : 23 (.) / (.) : >= 1 not int
+Error at line : 23 if(.) : Not bool
+Error at line : 24 Either Class/Field not found
+Error at line : 24 new int[.]
+Error at line : 24 !(.)
+Error at line : 24 Either Class/Method not found
+Error at line : 24 if(.)else : Not bool
+Error at line : 25 index of Arr[.] not int
+Error at line : 25 base of (.)[] not Array
+Error at line : 27 int[] = boolean : Type mismatch
+Error at line : 28 (.) * (.) : >= 1 not int
+Error at line : 28 return type mismatch, expected W
+Error at line : 34 return type mismatch, expected int
+Error at line : 40 index of Arr[.] not int
+Error at line : 40 return type mismatch, expected int
+Error at line : 45 int = J : Type mismatch
+Error at line : 46 new int[.]
+Error at line : 46 (.) != (.) : Type mismatch
+Error at line : 46 new int[.]
+Error at line : 46 index of Arr[.] not int
+Error at line : 46 base of (.)[] not Array
+Error at line : 46 new int[.]
+Error at line : 46 (.) / (.) : >= 1 not int
+Error at line : 46 !(.)
+Error at line : 46 (.) + (.) : Type mismatch
+Error at line : 46 new int[.]
+Error at line : 46 (.) && (.) : >= 1 not bool
+Error at line : 46 !(.)
+Error at line : 46 (.) * (.) : >= 1 not int
+Error at line : 46 while(.) : Not bool
+Error at line : 48 (.) || (.) : >= 1 not bool
+Error at line : 48 x = y : Type mismatch[ERR]
+Error at line : 49 LHS: Either Class/Field not found
+Error at line : 49 x.y = z :  Type mismatch
+Error at line : 50 return type mismatch, expected int[]
+Error at line : 54 return type mismatch, expected int[]
+Found 49 type errors.

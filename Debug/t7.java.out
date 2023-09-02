@@ -1,0 +1,9 @@
+Error at line : 17 new int[.]
+Error at line : 17 x = y : Type mismatch[ERR]
+Error at line : 25 Either Class/Field not found
+Error at line : 25 (.) + (.) : Type mismatch
+Error at line : 25 x = y : Type mismatch[ERR]
+Error at line : 56 Either Class/Method not found
+Error at line : 56 x = y : Type mismatch[ERR]
+Error at line : 61 Method call arg type mismatch
+Found 8 type errors.

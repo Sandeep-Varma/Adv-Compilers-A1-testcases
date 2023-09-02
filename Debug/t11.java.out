@@ -1,0 +1,5 @@
+Error at line : 24 return type mismatch, expected Y
+Error at line : 27 return type mismatch, expected Y
+Error at line : 44 Method call arg type mismatch
+Error at line : 50 Z = Y : Type mismatch
+Found 4 type errors.

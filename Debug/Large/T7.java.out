@@ -1,0 +1,125 @@
+Error at line : 5 (.) * (.) : >= 1 not int
+Error at line : 5 new int[.]
+Error at line : 15 return type mismatch, expected int
+Error at line : 23 new int[.]
+Error at line : 23 (.) && (.) : >= 1 not bool
+Error at line : 23 if(.) : Not bool
+Error at line : 25 (.) <= (.) : >= 1 not int
+Error at line : 25 !(.)
+Error at line : 25 (.) && (.) : >= 1 not bool
+Error at line : 25 new int[.]
+Error at line : 25 (.) && (.) : >= 1 not bool
+Error at line : 25 if(.) : Not bool
+Error at line : 26 Either Class/Field not found
+Error at line : 26 !(.)
+Error at line : 26 !(.)
+Error at line : 26 if(.)else : Not bool
+Error at line : 27 base of (.)[] not Array
+Error at line : 27 Either Class/Method not found
+Error at line : 27 (.) <= (.) : >= 1 not int
+Error at line : 27 x[.] = z : Not int
+Error at line : 27 (.)[y] = z : Not array
+Error at line : 27 x[y] = z : Type mismatch
+Error at line : 29 (.) * (.) : >= 1 not int
+Error at line : 29 x = y : Type mismatch[ERR]
+Error at line : 30 Either Class/Field not found
+Error at line : 30 !(.)
+Error at line : 30 !(.)
+Error at line : 30 return type mismatch, expected int
+Error at line : 36 (.) || (.) : >= 1 not bool
+Error at line : 36 !(.)
+Error at line : 36 return type mismatch, expected int[]
+Error at line : 44 LHS: Either Class/Field not found
+Error at line : 44 x.y = z :  Type mismatch
+Error at line : 47 x[.] = z : Not int
+Error at line : 47 (.)[y] = z : Not array
+Error at line : 47 x[y] = z : Type mismatch
+Error at line : 48 LHS: Either Class/Field not found
+Error at line : 48 x.y = z :  Type mismatch
+Error at line : 51 if(.)else : Not bool
+Error at line : 53 Either Class/Field not found
+Error at line : 53 while(.) : Not bool
+Error at line : 54 !(.)
+Error at line : 54 if(.) : Not bool
+Error at line : 55 base of (.)[] not Array
+Error at line : 55 x = y : Type mismatch[ERR]
+Error at line : 58 Either Class/Method not found
+Error at line : 59 (.) <= (.) : >= 1 not int
+Error at line : 59 new int[.]
+Error at line : 59 (.) + (.) : Type mismatch
+Error at line : 59 x = y : Type mismatch[ERR]
+Error at line : 60 (.) * (.) : >= 1 not int
+Error at line : 60 !(.)
+Error at line : 60 (.) && (.) : >= 1 not bool
+Error at line : 60 !(.)
+Error at line : 60 (.) * (.) : >= 1 not int
+Error at line : 60 LHS: Either Class/Field not found
+Error at line : 60 x.y = z :  Type mismatch
+Error at line : 61 return type mismatch, expected I
+Error at line : 85 (.) / (.) : >= 1 not int
+Error at line : 85 if(.) : Not bool
+Error at line : 86 new int[.]
+Error at line : 86 (.) != (.) : Type mismatch
+Error at line : 86 if(.)else : Not bool
+Error at line : 88 !(.)
+Error at line : 88 (.) <= (.) : >= 1 not int
+Error at line : 88 !(.)
+Error at line : 88 x = y : Type mismatch[ERR]
+Error at line : 89 index of Arr[.] not int
+Error at line : 89 base of (.)[] not Array
+Error at line : 89 new int[.]
+Error at line : 89 (.) / (.) : >= 1 not int
+Error at line : 89 !(.)
+Error at line : 89 while(.) : Not bool
+Error at line : 91 Either Class/Field not found
+Error at line : 91 new int[.]
+Error at line : 91 (.) || (.) : >= 1 not bool
+Error at line : 91 !(.)
+Error at line : 91 x = y : Type mismatch[ERR]
+Error at line : 93 LHS: Either Class/Field not found
+Error at line : 93 x.y = z :  Type mismatch
+Error at line : 96 (.) || (.) : >= 1 not bool
+Error at line : 96 (.) + (.) : Type mismatch
+Error at line : 96 new int[.]
+Error at line : 96 (.) + (.) : Type mismatch
+Error at line : 96 x[.] = z : Not int
+Error at line : 96 (.)[y] = z : Not array
+Error at line : 96 x[y] = z : Type mismatch
+Error at line : 97 while(.) : Not bool
+Error at line : 98 !(.)
+Error at line : 98 LHS: Either Class/Field not found
+Error at line : 98 x.y = z :  Type mismatch
+Error at line : 102 new int[.]
+Error at line : 102 while(.) : Not bool
+Error at line : 103 (.) + (.) : Type mismatch
+Error at line : 103 while(.) : Not bool
+Error at line : 105 LHS: Either Class/Field not found
+Error at line : 105 x.y = z :  Type mismatch
+Error at line : 106 (.) && (.) : >= 1 not bool
+Error at line : 106 Either Class/Method not found
+Error at line : 106 x[.] = z : Not int
+Error at line : 106 (.)[y] = z : Not array
+Error at line : 106 x[y] = z : Type mismatch
+Error at line : 108 return type mismatch, expected int
+Error at line : 114 (.) - (.) : >= 1 not int
+Error at line : 114 LHS: Either Class/Field not found
+Error at line : 114 x.y = z :  Type mismatch
+Error at line : 115 new int[.]
+Error at line : 115 while(.) : Not bool
+Error at line : 119 (.) / (.) : >= 1 not int
+Error at line : 119 Either Class/Method not found
+Error at line : 119 LHS: Either Class/Field not found
+Error at line : 119 x.y = z :  Type mismatch
+Error at line : 120 if(.) : Not bool
+Error at line : 121 while(.) : Not bool
+Error at line : 123 !(.)
+Error at line : 123 (.) + (.) : Type mismatch
+Error at line : 123 !(.)
+Error at line : 123 new int[.]
+Error at line : 123 (.) || (.) : >= 1 not bool
+Error at line : 123 Either Class/Method not found
+Error at line : 123 LHS: Either Class/Field not found
+Error at line : 123 x.y = z :  Type mismatch
+Error at line : 125 (.) - (.) : >= 1 not int
+Error at line : 125 return type mismatch, expected boolean
+Found 124 type errors.

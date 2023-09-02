@@ -1,0 +1,22 @@
+Error at line : 13 x[.] = z : Not int
+Error at line : 13 (.)[y] = z : Not array
+Error at line : 13 x[y] = z : Type mismatch
+Error at line : 14 (.)[y] = z : Not array
+Error at line : 14 x[y] = z : Type mismatch
+Error at line : 15 (.)[y] = z : Not array
+Error at line : 15 x[y] = z : Type mismatch
+Error at line : 16 x[.] = z : Not int
+Error at line : 16 (.)[y] = z : Not array
+Error at line : 16 x[y] = z : Type mismatch
+Error at line : 17 x[.] = z : Not int
+Error at line : 17 x[y] = z : Type mismatch
+Error at line : 18 x[.] = z : Not int
+Error at line : 18 x[y] = z : Type mismatch
+Error at line : 20 x[y] = z : Type mismatch
+Error at line : 21 index of Arr[.] not int
+Error at line : 21 x = y : Type mismatch[ERR]
+Error at line : 23 index of Arr[.] not int
+Error at line : 23 base of (.)[] not Array
+Error at line : 23 x = y : Type mismatch[ERR]
+Error at line : 24 int[] = int : Type mismatch
+Found 21 type errors.

@@ -1,0 +1,25 @@
+Error at line : 5 new int[.]
+Error at line : 5 (.) - (.) : >= 1 not int
+Error at line : 18 return type mismatch, expected C
+Error at line : 24 if(.) : Not bool
+Error at line : 25 x[.] = z : Not int
+Error at line : 25 (.)[y] = z : Not array
+Error at line : 25 x[y] = z : Type mismatch
+Error at line : 26 (.) && (.) : >= 1 not bool
+Error at line : 26 (.) + (.) : Type mismatch
+Error at line : 26 (.) / (.) : >= 1 not int
+Error at line : 26 Either Class/Method not found
+Error at line : 26 Either Class/Method not found
+Error at line : 27 int = boolean : Type mismatch
+Error at line : 28 return type mismatch, expected boolean
+Error at line : 34 (.) + (.) : Type mismatch
+Error at line : 34 new int[.]
+Error at line : 34 (.) && (.) : >= 1 not bool
+Error at line : 34 return type mismatch, expected L
+Error at line : 47 (.) != (.) : Type mismatch
+Error at line : 47 index of Arr[.] not int
+Error at line : 47 return type mismatch, expected L
+Error at line : 52 (.) - (.) : >= 1 not int
+Error at line : 52 return type mismatch, expected boolean
+Error at line : 57 return type mismatch, expected int
+Found 24 type errors.
