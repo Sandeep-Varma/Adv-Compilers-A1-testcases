@@ -6,6 +6,23 @@ class Test {
     }
 }
 
+class GrandParent{
+    int ancient;
+}
+
+class Parent extends GrandParent{
+    int y;
+    public int bar(int a,int b, int c){
+        return 0;
+    }
+    public int m1(Parent p){
+        return 0; 
+    }
+    public int m2(Child c){
+        return 0;
+    }
+}
+
 class Array_Assign{
     public int foo(){
         int[] a;
@@ -167,21 +184,4 @@ class Child extends Parent{
 
 class NotChild{
 
-}
-
-class Parent extends GrandParent{
-    int y;
-    public int bar(int a,int b, int c){
-        return 0;
-    }
-    public int m1(Parent p){
-        return 0; 
-    }
-    public int m2(Child c){
-        return 0;
-    }
-}
-
-class GrandParent{
-    int ancient;
 }

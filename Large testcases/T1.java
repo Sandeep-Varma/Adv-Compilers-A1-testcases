@@ -84,6 +84,12 @@ class Y {
 	}
 
 }
+class B {
+	int[] c;
+	boolean v;
+	int[] e;
+
+}
 class N extends B {
 	boolean c;
 	boolean s;
@@ -118,12 +124,6 @@ class N extends B {
 				}
 		return (false.length) - c;
 	}
-
-}
-class B {
-	int[] c;
-	boolean v;
-	int[] e;
 
 }
 class I {

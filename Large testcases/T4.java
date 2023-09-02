@@ -5,29 +5,6 @@ class Test {
 		System.out.println(false - new int[ false ]); // 2 errors
 	}
 }
-class C extends L {
-	boolean t;
-	boolean b;
-
-	public L u() {
-		int o;
-		int[] b;
-		L l;
-		C m;
-		return b[(o != new C())]; // 3 errors
-	}
-
-	public boolean r() {
-		int[] h;
-		return 3 - false; // 2 errors
-	}
-
-	public int f() {
-		int e;
-		return true; // 1 error
-	}
-
-}
 class L {
 	L f;
 	int x;
@@ -58,7 +35,29 @@ class L {
 	}
 
 }
+class C extends L {
+	boolean t;
+	boolean b;
 
+	public L u() {
+		int o;
+		int[] b;
+		L l;
+		C m;
+		return b[(o != new C())]; // 3 errors
+	}
+
+	public boolean r() {
+		int[] h;
+		return 3 - false; // 2 errors
+	}
+
+	public int f() {
+		int e;
+		return true; // 1 error
+	}
+
+}
 
 //SEED: 2
 //EXP_NESTING: 0.001

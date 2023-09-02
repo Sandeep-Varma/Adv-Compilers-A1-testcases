@@ -5,44 +5,6 @@ class Test {
 		System.out.println(new int[ this ] != this);
 	}
 }
-class L extends E {
-
-}
-class M extends L {
-	E g;
-	M a;
-	M o;
-	boolean s;
-
-	public L c() {
-		o.s = new E();
-		System.out.println(a);
-		return true && new L();
-	}
-
-	public int w() {
-		M n;
-		int[] x;
-		int v;
-		int[] d;
-		d.v = ! false[false];
-		while(((false)))
-			a = false.length;
-		a[! 55 || ! s || 13] = ! x.s.s(n / ! true, new int[ (((this) * false) != new M()) && false ] || new int[ g.a ], false.length);
-		o[o + (new int[ ! this && ! false * this ].length)] = (new int[ (d) ] != new int[ false ]);
-		return new L();
-	}
-
-	public L m() {
-		int b;
-		int[] h;
-		boolean p;
-		boolean s;
-		int[] t;
-		return this != ! false[new int[ new int[ 46 ] ]];
-	}
-
-}
 class E {
 
 	public boolean w() {
@@ -100,6 +62,44 @@ class E {
 		int[] z;
 		System.out.println((e && (new L())) - false);
 		return (new int[ (this - this) * true ]) <= this;
+	}
+
+}
+class L extends E {
+
+}
+class M extends L {
+	E g;
+	M a;
+	M o;
+	boolean s;
+
+	public L c() {
+		o.s = new E();
+		System.out.println(a);
+		return true && new L();
+	}
+
+	public int w() {
+		M n;
+		int[] x;
+		int v;
+		int[] d;
+		d.v = ! false[false];
+		while(((false)))
+			a = false.length;
+		a[! 55 || ! s || 13] = ! x.s.s(n / ! true, new int[ (((this) * false) != new M()) && false ] || new int[ g.a ], false.length);
+		o[o + (new int[ ! this && ! false * this ].length)] = (new int[ (d) ] != new int[ false ]);
+		return new L();
+	}
+
+	public L m() {
+		int b;
+		int[] h;
+		boolean p;
+		boolean s;
+		int[] t;
+		return this != ! false[new int[ new int[ 46 ] ]];
 	}
 
 }
