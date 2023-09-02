@@ -1,4 +1,4 @@
-// Total: 45 errors
+// Total: 41 errors
 
 class Test {
     public static void main(String[] args) {
@@ -148,8 +148,6 @@ class Identifier_type extends Parent{
         y=p;
         p=ancient;
         ancient=p;
-        p=who; // 2 errors
-        who=p; // 2 errors
         return 0;    
     }
 }
