@@ -9,12 +9,12 @@ t8.java, Found 14 type errors.
 t9.java, Found 18 type errors.
 t10.java, Found 8 type errors.
 t11.java, Found 4 type errors.
-Large\ testcases/T1.java, Found 133 type errors.
-Large\ testcases/T2.java, Found 41 type errors.
-Large\ testcases/T3.java, Found 173 type errors.
-Large\ testcases/T4.java, Found 24 type errors.
-Large\ testcases/T5.java, Found 105 type errors.
-Large\ testcases/T6.java, Found 5 type errors.
-Large\ testcases/T7.java, Found 124 type errors.
-Large\ testcases/T8.java, Found 7 type errors.
-Large\ testcases/T9.java, Found 49 type errors.
+Large/T1.java, Found 133 type errors.
+Large/T2.java, Found 41 type errors.
+Large/T3.java, Found 173 type errors.
+Large/T4.java, Found 24 type errors.
+Large/T5.java, Found 105 type errors.
+Large/T6.java, Found 75 type errors.
+Large/T7.java, Found 124 type errors.
+Large/T8.java, Found 77 type errors.
+Large/T9.java, Found 49 type errors.
